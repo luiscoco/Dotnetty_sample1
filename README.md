@@ -33,3 +33,11 @@ They are responsible for managing the threading model
 **Buffers**: DotNetty provides ByteBuf for efficient data representation and manipulation, avoiding the overhead of Java's ByteBuffer flip operations
 
 It's a powerful tool for working with byte data
+
+## 3. Sample1: Echo application
+
+### 3.1.
+
+
+
+### 3.2. 
